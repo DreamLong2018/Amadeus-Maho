@@ -1,32 +1,11 @@
-# Amadeus
-A side project that aims to replicate the Amadeus App shown in Steins;Gate 0 for Android.
+#Amadeus: Maho Hiyajo Version
+Welcome! This is an alternate version of Yink and Emojikage's Amadeus App starring our favorite loli, Maho Hiyajo. It is currently still in the Alpha stage and has a few bugs, but has a variety of features as well. Kurisu still takes priority over Maho, however, so it will take longer to update her. 
 
-I'm creating this mainly for cosplay purposes, thus the design takes priority over actual functionality.
-Hit me up on the Steins;Gate Discord.
+#Features:
+-Around 20 different lines
+-Voice Commands (try loli, short, kid, hello, good morning, Kurisu, we did it, nice, etc.)
+-Jojo References
+-EXPERIMENTAL: Click small logo to trigger early stage alarm activity.
 
-To start speech recognition simply touch her once. If you long-click her, she will go on a loop and say random sentences in random intervals. Long-Click again to stop.
-
-<a href="https://github.com/Yink/Amadeus/blob/master/Screenshots/Callscreeen.png?raw=true">Screenshot 1</a>
-<a href="https://github.com/Yink/Amadeus/blob/master/Screenshots/Kurisuscreen.png?raw=true">Screenshot 2</a>
-
-#Recognized commands
-Keep in mind that the voice recognition is Japanese in order to register the Japanese names. Thus you may have to alter your pronouncation a bit.
-<ul>
-<li>Hello, Ohayou, Konnichiwa, Konbanwa</li>
-<li>Christina</li>
-<li>Nullpo</li>
-<li>@channel, Kurigohan, Kamehameha</li>
-<li>Salieri,Maho,Hiyao</li>
-<li>Time machine, SERN, Time travel</li>
-<li>Memory, Amadeus, Science</li>
-<li>Nice body, Hot, Sexy, Boobies</li>
-</ul>
-
-#Credits
-<ul>
-<li><a href="https://github.com/RIP95">Emojikage</a> for various improvements and advice</li>
-<li>8-Bit☆Asian for Zero and S;G Voice Lines and the Website</li>
-<li><a href="https://twitter.com/SG_EPK_X29">EPK</a> for Phenogram Voice Lines</li>
-<li><a href="https://twitter.com/DavixxaYT">Davixxa</a> for Assets</li>
-<li>But He's a Guy and Deadeye for finding the hidden animation in 0</li>
-</ul>
+#Credits:
+Thank you especially to Yink and Emojikage for the original code and frequent updates. Also thanks to Valkyrio100 for various voice lines.
